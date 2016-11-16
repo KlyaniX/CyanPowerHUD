@@ -1,4 +1,4 @@
---KlyaniX_HUD_configuration
+--KlyaniX_HUD_derma_configurator
 --   __  __   ___                                  __   __
 --  /\ \/\ \ /\_ \                             __ /\ \ /\ \
 --  \ \ \/'/ \//\ \    __  __     __      ___ /\_\\ `\`\/'/'
