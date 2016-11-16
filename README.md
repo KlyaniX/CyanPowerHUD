@@ -1,5 +1,5 @@
 # CyanPowerHUD
-Simple colored HUD for Garry's Mod on glua.
+Simple and customizable HUD for Garry's Mod on glua.
 
 ## INSTALLATION
 ### Two ways:
