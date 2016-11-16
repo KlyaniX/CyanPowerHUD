@@ -1,0 +1,10 @@
+{
+        "title" : "CyanPowerHUD",
+        "type" : "gamemode",
+        "tags": [ "fun", "scenic" ],
+        "ignore" :
+        [
+                "*.psd",
+                "*.svn*"
+        ]
+}
